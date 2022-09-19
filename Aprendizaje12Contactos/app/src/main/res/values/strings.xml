@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aprendizaje12Contactos</string>
+    <string name="et_nombre">Nombre Del Contacto</string>
+    <string name="et_datos">Datos Del Contacto</string>
+    <string name="botonguardar">Guardar</string>
+    <string name="botonbuscar">Buscar</string>
+</resources>

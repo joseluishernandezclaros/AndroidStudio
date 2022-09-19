@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aprendizaje11AlmacenamientoDatos</string>
+    <string name="email">Ingrese Su Email</string>
+    <string name="boton">Guardar</string>
+</resources>

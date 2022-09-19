@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aprendizaje9Parametros</string>
+    <string name="etplano1">Nombre</string>
+    <string name="etplano2">Nombre</string>
+    <string name="botonenviar">Enviar</string>
+    <string name="botonregresar">Regresar</string>
+</resources>

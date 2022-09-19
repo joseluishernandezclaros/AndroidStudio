@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aprendizaje3</string>
+    <string name="algo_">Calcular</string>
+    <string name="valor1">Ingresa Primer Valor</string>
+    <string name="valor2">Ingresa Segundo Valor</string>
+    <string name="Rb1">Sumar</string>
+    <string name="Rb2">Restar</string>
+    <string name="Rb3">Multiplicar</string>
+    <string name="Rb4">Dividir</string>
+    <string name="tv">Resultado</string>
+
+</resources>

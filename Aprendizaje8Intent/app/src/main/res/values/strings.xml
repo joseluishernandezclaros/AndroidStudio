@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aprendizaje8Intent</string>
+    <string name="tv1">Primer Activity</string>
+    <string name="botonsiguiente">Siguiente</string>
+    <string name="tv1.1">Segundo Activity</string>
+    <string name="botonanterior">Anterior</string>
+</resources>
